@@ -1,28 +1,15 @@
-== README
+== SPLURTY
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Splurty was written in Ruby on Rails framework.
 
-Things you may want to cover:
+Splurty is a wine and wine based quote generator to keep track of all of your quotes. Check it out [here](https://splurty-ryomablue.herokuapp.com/) and sign up to contribute your favorite wine quotes!
 
-* Ruby version
+==Features:
+* Users can upload their favorite quotes with modal forms.
 
-* System dependencies
+* Quotes are randomly picked and presented from the database upon refresh of the page.
 
-* Configuration
+* Twitter Bootstrap 3 was utilized for CSS and components.
 
-* Database creation
+* PostgreSQL for database queries and storage of quotes data and user data.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
